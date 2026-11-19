@@ -13,3 +13,6 @@ def get_active_employees(employees):
             active_employees.append(employee)
 
     return active_employees
+
+def calculate_salary():
+    return 1000
